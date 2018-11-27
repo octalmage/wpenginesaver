@@ -1,0 +1,26 @@
+svg.logo {
+  fill: #40bac8;
+}
+
+.brand, .logo {
+  display: block;
+  margin: auto;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+  overflow: auto;
+  height: 600px;
+}
+
+.brand {
+  margin-top: 1em;
+  /* padding-left: 125px; */
+}
+
+body {
+  background-color: #022B42;
+}
