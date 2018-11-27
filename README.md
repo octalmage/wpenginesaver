@@ -32,4 +32,4 @@ License
 
 MIT
 
-Based on code by [Thomas Robinson](https://github.com/tlrobinson/WebSaver).
+Based on code by [Thomas Robinson](https://github.com/tlrobinson/WebSaver) and [Michael Smith](https://codepen.io/msmith512/pen/Meaqaz).
